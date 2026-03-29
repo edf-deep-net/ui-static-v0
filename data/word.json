@@ -1,0 +1,2155 @@
+{
+  "人教版PEP": {
+    "Grade1": [
+      {
+        "word": "hello",
+        "phonetic": "/həˈləʊ/",
+        "partOfSpeech": "interj.",
+        "collocation": "hello, everyone; say hello to sb."
+      },
+      {
+        "word": "hi",
+        "phonetic": "/haɪ/",
+        "partOfSpeech": "interj.",
+        "collocation": "hi there; hi, my friend"
+      },
+      {
+        "word": "apple",
+        "phonetic": "/ˈæpl/",
+        "partOfSpeech": "n.",
+        "collocation": "an apple; apple juice"
+      },
+      {
+        "word": "cat",
+        "phonetic": "/kæt/",
+        "partOfSpeech": "n.",
+        "collocation": "a cute cat; black cat"
+      },
+      {
+        "word": "dog",
+        "phonetic": "/dɒɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "a little dog; dog food"
+      }
+    ],
+    "Grade2": [
+      {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "partOfSpeech": "n.",
+        "collocation": "a story book; read a book"
+      },
+      {
+        "word": "pen",
+        "phonetic": "/pen/",
+        "partOfSpeech": "n.",
+        "collocation": "a red pen; write with a pen"
+      },
+      {
+        "word": "school",
+        "phonetic": "/skuːl/",
+        "partOfSpeech": "n.",
+        "collocation": "go to school; primary school"
+      },
+      {
+        "word": "bag",
+        "phonetic": "/bæɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "a school bag; a big bag"
+      },
+      {
+        "word": "red",
+        "phonetic": "/red/",
+        "partOfSpeech": "adj.",
+        "collocation": "red apple; red dress"
+      }
+    ],
+    "Grade3": [
+      {
+        "word": "father",
+        "phonetic": "/ˈfɑːðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my father; father's day"
+      },
+      {
+        "word": "mother",
+        "phonetic": "/ˈmʌðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my mother; mother tongue"
+      },
+      {
+        "word": "student",
+        "phonetic": "/ˈstjuːdnt/",
+        "partOfSpeech": "n.",
+        "collocation": "a good student; primary student"
+      },
+      {
+        "word": "teacher",
+        "phonetic": "/ˈtiːtʃə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "English teacher; a kind teacher"
+      },
+      {
+        "word": "pencil",
+        "phonetic": "/ˈpensl/",
+        "partOfSpeech": "n.",
+        "collocation": "a pencil box; sharpen a pencil"
+      }
+    ],
+    "Grade4": [
+      {
+        "word": "classroom",
+        "phonetic": "/ˈklɑːsruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "in the classroom; clean the classroom"
+      },
+      {
+        "word": "schoolbag",
+        "phonetic": "/ˈskuːlbæɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "a new schoolbag; schoolbag with wheels"
+      },
+      {
+        "word": "color",
+        "phonetic": "/ˈkʌlə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "bright color; favorite color"
+      },
+      {
+        "word": "friend",
+        "phonetic": "/frend/",
+        "partOfSpeech": "n.",
+        "collocation": "good friend; make friends"
+      },
+      {
+        "word": "happy",
+        "phonetic": "/ˈhæpi/",
+        "partOfSpeech": "adj.",
+        "collocation": "happy family; be happy to do sth."
+      }
+    ],
+    "Grade5": [
+      {
+        "word": "food",
+        "phonetic": "/fuːd/",
+        "partOfSpeech": "n.",
+        "collocation": "healthy food; fast food"
+      },
+      {
+        "word": "drink",
+        "phonetic": "/drɪŋk/",
+        "partOfSpeech": "v./n.",
+        "collocation": "drink water; a cup of drink"
+      },
+      {
+        "word": "traffic",
+        "phonetic": "/ˈtræfɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "traffic light; heavy traffic"
+      },
+      {
+        "word": "weekend",
+        "phonetic": "/ˌwiːkˈend/",
+        "partOfSpeech": "n.",
+        "collocation": "on the weekend; weekend plan"
+      },
+      {
+        "word": "hobby",
+        "phonetic": "/ˈhɒbi/",
+        "partOfSpeech": "n.",
+        "collocation": "have a hobby; hobby club"
+      }
+    ],
+    "Grade6": [
+      {
+        "word": "country",
+        "phonetic": "/ˈkʌntri/",
+        "partOfSpeech": "n.",
+        "collocation": "beautiful country; home country"
+      },
+      {
+        "word": "festival",
+        "phonetic": "/ˈfestɪvl/",
+        "partOfSpeech": "n.",
+        "collocation": "Spring Festival; traditional festival"
+      },
+      {
+        "word": "computer",
+        "phonetic": "/kəmˈpjuːtə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "computer game; use a computer"
+      },
+      {
+        "word": "science",
+        "phonetic": "/ˈsaɪəns/",
+        "partOfSpeech": "n.",
+        "collocation": "science class; science museum"
+      },
+      {
+        "word": "future",
+        "phonetic": "/ˈfjuːtʃə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "in the future; future plan"
+      }
+    ],
+    "n": []
+  },
+  "剑桥Kid's Box": {
+    "Grade1(KB1)": [
+      {
+        "word": "red",
+        "phonetic": "/red/",
+        "partOfSpeech": "adj.",
+        "collocation": "red flower; red car"
+      },
+      {
+        "word": "pencil",
+        "phonetic": "/ˈpensl/",
+        "partOfSpeech": "n.",
+        "collocation": "pencil case; write with a pencil"
+      },
+      {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "partOfSpeech": "n.",
+        "collocation": "story book; picture book"
+      },
+      {
+        "word": "father",
+        "phonetic": "/ˈfɑːðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my father; father and son"
+      },
+      {
+        "word": "ball",
+        "phonetic": "/bɔːl/",
+        "partOfSpeech": "n.",
+        "collocation": "play ball; big ball"
+      }
+    ],
+    "Grade2(KB2)": [
+      {
+        "word": "school",
+        "phonetic": "/skuːl/",
+        "partOfSpeech": "n.",
+        "collocation": "go to school; primary school"
+      },
+      {
+        "word": "friend",
+        "phonetic": "/frend/",
+        "partOfSpeech": "n.",
+        "collocation": "best friend; play with friends"
+      },
+      {
+        "word": "dog",
+        "phonetic": "/dɒɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "cute dog; walk the dog"
+      },
+      {
+        "word": "cat",
+        "phonetic": "/kæt/",
+        "partOfSpeech": "n.",
+        "collocation": "little cat; black cat"
+      },
+      {
+        "word": "happy",
+        "phonetic": "/ˈhæpi/",
+        "partOfSpeech": "adj.",
+        "collocation": "happy day; feel happy"
+      }
+    ],
+    "Grade3(KB3)": [
+      {
+        "word": "clock",
+        "phonetic": "/klɒk/",
+        "partOfSpeech": "n.",
+        "collocation": "wall clock; alarm clock"
+      },
+      {
+        "word": "bed",
+        "phonetic": "/bed/",
+        "partOfSpeech": "n.",
+        "collocation": "go to bed; make the bed"
+      },
+      {
+        "word": "car",
+        "phonetic": "/kɑː(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "red car; drive a car"
+      },
+      {
+        "word": "train",
+        "phonetic": "/treɪn/",
+        "partOfSpeech": "n.",
+        "collocation": "take a train; high - speed train"
+      },
+      {
+        "word": "computer",
+        "phonetic": "/kəmˈpjuːtə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "computer game; computer room"
+      }
+    ],
+    "Grade4(KB4)": [
+      {
+        "word": "hobby",
+        "phonetic": "/ˈhɒbi/",
+        "partOfSpeech": "n.",
+        "collocation": "hobby list; develop a hobby"
+      },
+      {
+        "word": "music",
+        "phonetic": "/ˈmjuːzɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "listen to music; pop music"
+      },
+      {
+        "word": "sport",
+        "phonetic": "/spɔːt/",
+        "partOfSpeech": "n.",
+        "collocation": "play sport; favorite sport"
+      },
+      {
+        "word": "doctor",
+        "phonetic": "/ˈdɒktə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "see a doctor; woman doctor"
+      },
+      {
+        "word": "nurse",
+        "phonetic": "/nɜːs/",
+        "partOfSpeech": "n.",
+        "collocation": "hospital nurse; kind nurse"
+      }
+    ],
+    "Grade5(KB5)": [
+      {
+        "word": "holiday",
+        "phonetic": "/ˈhɒlədeɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "summer holiday; holiday plan"
+      },
+      {
+        "word": "travel",
+        "phonetic": "/ˈtrævl/",
+        "partOfSpeech": "v./n.",
+        "collocation": "travel around; travel plan"
+      },
+      {
+        "word": "food",
+        "phonetic": "/fuːd/",
+        "partOfSpeech": "n.",
+        "collocation": "delicious food; healthy food"
+      },
+      {
+        "word": "drink",
+        "phonetic": "/drɪŋk/",
+        "partOfSpeech": "v./n.",
+        "collocation": "cold drink; drink tea"
+      },
+      {
+        "word": "family",
+        "phonetic": "/ˈfæməli/",
+        "partOfSpeech": "n.",
+        "collocation": "big family; family photo"
+      }
+    ],
+    "Grade6(KB6)": [
+      {
+        "word": "future",
+        "phonetic": "/ˈfjuːtʃə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "in the future; future life"
+      },
+      {
+        "word": "technology",
+        "phonetic": "/tekˈnɒlədʒi/",
+        "partOfSpeech": "n.",
+        "collocation": "modern technology; science and technology"
+      },
+      {
+        "word": "culture",
+        "phonetic": "/ˈkʌltʃə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "Chinese culture; culture difference"
+      },
+      {
+        "word": "dream",
+        "phonetic": "/driːm/",
+        "partOfSpeech": "n./v.",
+        "collocation": "have a dream; dream of doing sth."
+      },
+      {
+        "word": "plan",
+        "phonetic": "/plæn/",
+        "partOfSpeech": "n./v.",
+        "collocation": "make a plan; plan to do sth."
+      }
+    ]
+  }
+  {
+    "Pre A1 Starters A–Z wordlist": [
+      {
+        "word": "a",
+        "phonetic": "/ə; eɪ/",
+        "partOfSpeech": "det.",
+        "collocation": "a book; a cat; a happy day"
+      },
+      {
+        "word": "about",
+        "phonetic": "/əˈbaʊt/",
+        "partOfSpeech": "prep.",
+        "collocation": "talk about; think about; about school"
+      },
+      {
+        "word": "add",
+        "phonetic": "/æd/",
+        "partOfSpeech": "v.",
+        "collocation": "add numbers; add water; add a pencil"
+      },
+      {
+        "word": "afternoon",
+        "phonetic": "/ˌɑːftəˈnuːn/",
+        "partOfSpeech": "n.",
+        "collocation": "good afternoon; in the afternoon; afternoon tea"
+      },
+      {
+        "word": "again",
+        "phonetic": "/əˈɡen; əˈɡeɪn/",
+        "partOfSpeech": "adv.",
+        "collocation": "try again; say again; come again"
+      },
+      {
+        "word": "Alex",
+        "phonetic": "/ˈælɪks/",
+        "partOfSpeech": "n.",
+        "collocation": "Alex's book; play with Alex; meet Alex"
+      },
+      {
+        "word": "Alice",
+        "phonetic": "/ˈælɪs/",
+        "partOfSpeech": "n.",
+        "collocation": "Alice's bag; talk to Alice; Alice's cat"
+      },
+      {
+        "word": "alien",
+        "phonetic": "/ˈeɪliən/",
+        "partOfSpeech": "n.",
+        "collocation": "a little alien; friendly alien; alien toy"
+      },
+      {
+        "word": "alphabet",
+        "phonetic": "/ˈælfəbet/",
+        "partOfSpeech": "n.",
+        "collocation": "learn the alphabet; English alphabet; alphabet song"
+      },
+      {
+        "word": "an",
+        "phonetic": "/æn; ən/",
+        "partOfSpeech": "det.",
+        "collocation": "an apple; an elephant; an orange"
+      },
+      {
+        "word": "and",
+        "phonetic": "/ænd; ən/",
+        "partOfSpeech": "conj.",
+        "collocation": "cat and dog; book and pen; eat and drink"
+      },
+      {
+        "word": "angry",
+        "phonetic": "/ˈæŋɡri/",
+        "partOfSpeech": "adj.",
+        "collocation": "angry cat; feel angry; angry face"
+      },
+      {
+        "word": "animal",
+        "phonetic": "/ˈænɪml/",
+        "partOfSpeech": "n.",
+        "collocation": "cute animal; wild animal; farm animal"
+      },
+      {
+        "word": "Ann/Anna",
+        "phonetic": "/æn/ /ˈænə/",
+        "partOfSpeech": "n.",
+        "collocation": "Ann's sister; Anna's doll; play with Ann/Anna"
+      },
+      {
+        "word": "answer",
+        "phonetic": "/ˈɑːnsə(r)/",
+        "partOfSpeech": "n. + v.",
+        "collocation": "answer a question; give an answer; correct answer"
+      },
+      {
+        "word": "apartment (UK flat)",
+        "phonetic": "/əˈpɑːtmənt/ /flæt/",
+        "partOfSpeech": "n.",
+        "collocation": "big apartment; live in an apartment; apartment building"
+      },
+      {
+        "word": "apple",
+        "phonetic": "/ˈæpl/",
+        "partOfSpeech": "n.",
+        "collocation": "red apple; eat an apple; apple pie"
+      },
+      {
+        "word": "arm",
+        "phonetic": "/ɑːm/",
+        "partOfSpeech": "n.",
+        "collocation": "long arm; wave an arm; hurt an arm"
+      },
+      {
+        "word": "armchair",
+        "phonetic": "/ˈɑːmtʃeə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "big armchair; sit on an armchair; blue armchair"
+      },
+      {
+        "word": "ask",
+        "phonetic": "/ɑːsk/",
+        "partOfSpeech": "v.",
+        "collocation": "ask a question; ask for help; ask a teacher"
+      },
+      {
+        "word": "at",
+        "phonetic": "/æt; ət/",
+        "partOfSpeech": "prep.",
+        "collocation": "at home; at school; at the park"
+      },
+      {
+        "word": "baby",
+        "phonetic": "/ˈbeɪbi/",
+        "partOfSpeech": "n.",
+        "collocation": "cute baby; hold a baby; baby dog"
+      },
+      {
+        "word": "badminton",
+        "phonetic": "/ˈbædmɪntən/",
+        "partOfSpeech": "n.",
+        "collocation": "play badminton; badminton racket; badminton game"
+      },
+      {
+        "word": "bag",
+        "phonetic": "/bæɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "school bag; big bag; blue bag"
+      },
+      {
+        "word": "ball",
+        "phonetic": "/bɔːl/",
+        "partOfSpeech": "n.",
+        "collocation": "play ball; big ball; football; basketball"
+      },
+      {
+        "word": "balloon",
+        "phonetic": "/bəˈluːn/",
+        "partOfSpeech": "n.",
+        "collocation": "red balloon; blow a balloon; balloon toy"
+      },
+      {
+        "word": "banana",
+        "phonetic": "/bəˈnɑːnə/",
+        "partOfSpeech": "n.",
+        "collocation": "yellow banana; eat a banana; banana cake"
+      },
+      {
+        "word": "baseball",
+        "phonetic": "/ˈbeɪsbɔːl/",
+        "partOfSpeech": "n.",
+        "collocation": "play baseball; baseball bat; baseball cap"
+      },
+      {
+        "word": "baseball cap",
+        "phonetic": "/ˈbeɪsbɔːl kæp/",
+        "partOfSpeech": "n.",
+        "collocation": "blue baseball cap; wear a baseball cap; new baseball cap"
+      },
+      {
+        "word": "basketball",
+        "phonetic": "/ˈbɑːskɪtbɔːl/",
+        "partOfSpeech": "n.",
+        "collocation": "play basketball; basketball court; basketball game"
+      },
+      {
+        "word": "bat (as sports equipment)",
+        "phonetic": "/bæt/",
+        "partOfSpeech": "n.",
+        "collocation": "baseball bat; tennis bat; hold a bat"
+      },
+      {
+        "word": "bath",
+        "phonetic": "/bɑːθ/",
+        "partOfSpeech": "n.",
+        "collocation": "take a bath; hot bath; bath time"
+      },
+      {
+        "word": "bathroom",
+        "phonetic": "/ˈbɑːθruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "clean bathroom; in the bathroom; bathroom sink"
+      },
+      {
+        "word": "be",
+        "phonetic": "/biː; bi/",
+        "partOfSpeech": "v.",
+        "collocation": "be happy; be sad; be a student; be at home"
+      },
+      {
+        "word": "beach",
+        "phonetic": "/biːtʃ/",
+        "partOfSpeech": "n.",
+        "collocation": "go to the beach; sandy beach; beach ball"
+      },
+      {
+        "word": "bean",
+        "phonetic": "/biːn/",
+        "partOfSpeech": "n.",
+        "collocation": "green bean; eat beans; bean soup"
+      },
+      {
+        "word": "bear",
+        "phonetic": "/beə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "big bear; teddy bear; polar bear"
+      },
+      {
+        "word": "beautiful",
+        "phonetic": "/ˈbjuːtɪfl/",
+        "partOfSpeech": "adj.",
+        "collocation": "beautiful flower; beautiful girl; beautiful day"
+      },
+      {
+        "word": "bed",
+        "phonetic": "/bed/",
+        "partOfSpeech": "n.",
+        "collocation": "sleep in bed; big bed; bedroom; go to bed"
+      },
+      {
+        "word": "bedroom",
+        "phonetic": "/ˈbedruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "my bedroom; clean bedroom; bedroom door"
+      },
+      {
+        "word": "bee",
+        "phonetic": "/biː/",
+        "partOfSpeech": "n.",
+        "collocation": "small bee; busy bee; bee and flower"
+      },
+      {
+        "word": "behind",
+        "phonetic": "/bɪˈhaɪnd/",
+        "partOfSpeech": "prep.",
+        "collocation": "behind the door; behind the tree; stand behind"
+      },
+      {
+        "word": "Ben",
+        "phonetic": "/ben/",
+        "partOfSpeech": "n.",
+        "collocation": "Ben's bike; play with Ben; Ben's dog"
+      },
+      {
+        "word": "between",
+        "phonetic": "/bɪˈtwiːn/",
+        "partOfSpeech": "prep.",
+        "collocation": "between two trees; between you and me; between desk and chair"
+      },
+      {
+        "word": "big",
+        "phonetic": "/bɪɡ/",
+        "partOfSpeech": "adj.",
+        "collocation": "big dog; big house; big apple"
+      },
+      {
+        "word": "bike",
+        "phonetic": "/baɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "ride a bike; red bike; new bike"
+      },
+      {
+        "word": "Bill",
+        "phonetic": "/bɪl/",
+        "partOfSpeech": "n.",
+        "collocation": "Bill's book; talk to Bill; Bill's family"
+      },
+      {
+        "word": "bird",
+        "phonetic": "/bɜːd/",
+        "partOfSpeech": "n.",
+        "collocation": "small bird; sing bird; bird and tree"
+      },
+      {
+        "word": "birthday",
+        "phonetic": "/ˈbɜːθdeɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "happy birthday; birthday cake; birthday party"
+      },
+      {
+        "word": "black",
+        "phonetic": "/blæk/",
+        "partOfSpeech": "adj.",
+        "collocation": "black cat; black pen; black hair"
+      },
+      {
+        "word": "blue",
+        "phonetic": "/bluː/",
+        "partOfSpeech": "adj.",
+        "collocation": "blue sky; blue bag; blue eyes"
+      },
+      {
+        "word": "board",
+        "phonetic": "/bɔːd/",
+        "partOfSpeech": "n.",
+        "collocation": "blackboard; drawing board; board game"
+      },
+      {
+        "word": "board game",
+        "phonetic": "/bɔːd ɡeɪm/",
+        "partOfSpeech": "n.",
+        "collocation": "play a board game; fun board game; family board game"
+      },
+      {
+        "word": "boat",
+        "phonetic": "/bəʊt/",
+        "partOfSpeech": "n.",
+        "collocation": "small boat; row a boat; boat on the lake"
+      },
+      {
+        "word": "body",
+        "phonetic": "/ˈbɒdi/",
+        "partOfSpeech": "n.",
+        "collocation": "human body; animal body; body parts"
+      },
+      {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "partOfSpeech": "n.",
+        "collocation": "read a book; story book; school book"
+      },
+      {
+        "word": "bookcase",
+        "phonetic": "/ˈbʊkkeɪs/",
+        "partOfSpeech": "n.",
+        "collocation": "wooden bookcase; big bookcase; bookcase with books"
+      },
+      {
+        "word": "bookshop",
+        "phonetic": "/ˈbʊkʃɒp/",
+        "partOfSpeech": "n.",
+        "collocation": "go to the bookshop; buy books in bookshop; small bookshop"
+      },
+      {
+        "word": "boots",
+        "phonetic": "/buːts/",
+        "partOfSpeech": "n.",
+        "collocation": "black boots; winter boots; wear boots"
+      },
+      {
+        "word": "bounce",
+        "phonetic": "/baʊns/",
+        "partOfSpeech": "v.",
+        "collocation": "bounce a ball; bounce up and down; bounce the ball high"
+      },
+      {
+        "word": "box",
+        "phonetic": "/bɒks/",
+        "partOfSpeech": "n.",
+        "collocation": "big box; gift box; box of toys"
+      },
+      {
+        "word": "boy",
+        "phonetic": "/bɔɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "small boy; happy boy; school boy"
+      },
+      {
+        "word": "bread",
+        "phonetic": "/bred/",
+        "partOfSpeech": "n.",
+        "collocation": "eat bread; white bread; bread and milk"
+      },
+      {
+        "word": "breakfast",
+        "phonetic": "/ˈbrekfəst/",
+        "partOfSpeech": "n.",
+        "collocation": "eat breakfast; good breakfast; breakfast time"
+      },
+      {
+        "word": "brother",
+        "phonetic": "/ˈbrʌðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my brother; big brother; play with brother"
+      },
+      {
+        "word": "brown",
+        "phonetic": "/braʊn/",
+        "partOfSpeech": "adj.",
+        "collocation": "brown hair; brown dog; brown bear"
+      },
+      {
+        "word": "burger",
+        "phonetic": "/ˈbɜːɡə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "eat a burger; beef burger; cheese burger"
+      },
+      {
+        "word": "bus",
+        "phonetic": "/bʌs/",
+        "partOfSpeech": "n.",
+        "collocation": "take a bus; school bus; red bus"
+      },
+      {
+        "word": "but",
+        "phonetic": "/bʌt; bət/",
+        "partOfSpeech": "conj.",
+        "collocation": "big but small; eat but not drink; happy but tired"
+      },
+      {
+        "word": "bye",
+        "phonetic": "/baɪ/",
+        "partOfSpeech": "excl.",
+        "collocation": "bye bye; see you bye; good bye"
+      },
+      {
+        "word": "cake",
+        "phonetic": "/keɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "eat cake; birthday cake; chocolate cake"
+      },
+      {
+        "word": "camera",
+        "phonetic": "/ˈkæmrə/",
+        "partOfSpeech": "n.",
+        "collocation": "take photos with camera; digital camera; small camera"
+      },
+      {
+        "word": "can",
+        "phonetic": "/kæn; kən/",
+        "partOfSpeech": "v.",
+        "collocation": "can swim; can read; can play"
+      },
+      {
+        "word": "candy (UK sweet(s))",
+        "phonetic": "/ˈkændi/ /swiːt(s)/",
+        "partOfSpeech": "n.",
+        "collocation": "eat candy; sweet candy; box of candy"
+      },
+      {
+        "word": "car",
+        "phonetic": "/kɑː(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "drive a car; red car; toy car"
+      },
+      {
+        "word": "carrot",
+        "phonetic": "/ˈkærət/",
+        "partOfSpeech": "n.",
+        "collocation": "eat a carrot; orange carrot; carrot soup"
+      },
+      {
+        "word": "cat",
+        "phonetic": "/kæt/",
+        "partOfSpeech": "n.",
+        "collocation": "black cat; cute cat; play with cat"
+      },
+      {
+        "word": "catch (e.g. a ball)",
+        "phonetic": "/kætʃ/",
+        "partOfSpeech": "v.",
+        "collocation": "catch a ball; catch a butterfly; catch a toy"
+      },
+      {
+        "word": "chair",
+        "phonetic": "/tʃeə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "sit on a chair; wooden chair; big chair"
+      },
+      {
+        "word": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "partOfSpeech": "n.",
+        "collocation": "eat chicken; fried chicken; small chicken"
+      },
+      {
+        "word": "child/children",
+        "phonetic": "/tʃaɪld/ /ˈtʃɪldrən/",
+        "partOfSpeech": "n.",
+        "collocation": "happy child; play with children; school children"
+      },
+      {
+        "word": "chips (US fries)",
+        "phonetic": "/tʃɪps/ /fraɪz/",
+        "partOfSpeech": "n.",
+        "collocation": "eat chips; potato chips; bag of chips"
+      },
+      {
+        "word": "chocolate",
+        "phonetic": "/ˈtʃɒklət/",
+        "partOfSpeech": "n.",
+        "collocation": "eat chocolate; dark chocolate; chocolate cake"
+      },
+      {
+        "word": "choose",
+        "phonetic": "/tʃuːz/",
+        "partOfSpeech": "v.",
+        "collocation": "choose a book; choose a toy; choose a color"
+      },
+      {
+        "word": "clap",
+        "phonetic": "/klæp/",
+        "partOfSpeech": "v.",
+        "collocation": "clap hands; clap for you; clap loudly"
+      },
+      {
+        "word": "class",
+        "phonetic": "/klɑːs/",
+        "partOfSpeech": "n.",
+        "collocation": "go to class; English class; big class"
+      },
+      {
+        "word": "classmate",
+        "phonetic": "/ˈklɑːsmeɪt/",
+        "partOfSpeech": "n.",
+        "collocation": "play with classmate; good classmate; help classmate"
+      },
+      {
+        "word": "classroom",
+        "phonetic": "/ˈklɑːsruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "in the classroom; clean classroom; classroom desk"
+      },
+      {
+        "word": "clean",
+        "phonetic": "/kliːn/",
+        "partOfSpeech": "adj. + v.",
+        "collocation": "clean room; clean hands; clean the desk"
+      },
+      {
+        "word": "clock",
+        "phonetic": "/klɒk/",
+        "partOfSpeech": "n.",
+        "collocation": "big clock; wall clock; read the clock"
+      },
+      {
+        "word": "close",
+        "phonetic": "/kləʊz/",
+        "partOfSpeech": "v.",
+        "collocation": "close the door; close the book; close the window"
+      },
+      {
+        "word": "closed",
+        "phonetic": "/kləʊzd/",
+        "partOfSpeech": "adj.",
+        "collocation": "closed door; closed shop; closed window"
+      },
+      {
+        "word": "clothes",
+        "phonetic": "/kləʊðz/",
+        "partOfSpeech": "n.",
+        "collocation": "new clothes; clean clothes; wear clothes"
+      },
+      {
+        "word": "coconut",
+        "phonetic": "/ˈkəʊkənʌt/",
+        "partOfSpeech": "n.",
+        "collocation": "eat coconut; coconut juice; big coconut"
+      },
+      {
+        "word": "colour (US color)",
+        "phonetic": "/ˈkʌlə(r)/ /ˈkʌlər/",
+        "partOfSpeech": "n. + v.",
+        "collocation": "red colour; colour a picture; favorite colour"
+      },
+      {
+        "word": "come",
+        "phonetic": "/kʌm/",
+        "partOfSpeech": "v.",
+        "collocation": "come here; come to school; come home"
+      },
+      {
+        "word": "complete",
+        "phonetic": "/kəmˈpliːt/",
+        "partOfSpeech": "v.",
+        "collocation": "complete homework; complete a picture; complete a game"
+      },
+      {
+        "word": "computer",
+        "phonetic": "/kəmˈpjuːtə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "computer game; use a computer; new computer"
+      },
+      {
+        "word": "cool",
+        "phonetic": "/kuːl/",
+        "partOfSpeech": "adj. + excl.",
+        "collocation": "cool weather; cool car; cool! What a toy!"
+      },
+      {
+        "word": "correct",
+        "phonetic": "/kəˈrekt/",
+        "partOfSpeech": "adj.",
+        "collocation": "correct answer; correct spelling; correct way"
+      },
+      {
+        "word": "count",
+        "phonetic": "/kaʊnt/",
+        "partOfSpeech": "v.",
+        "collocation": "count numbers; count toys; count from one to ten"
+      },
+      {
+        "word": "cousin",
+        "phonetic": "/ˈkʌzn/",
+        "partOfSpeech": "n.",
+        "collocation": "my cousin; play with cousin; cousin's birthday"
+      },
+      {
+        "word": "cow",
+        "phonetic": "/kaʊ/",
+        "partOfSpeech": "n.",
+        "collocation": "big cow; farm cow; white cow"
+      },
+      {
+        "word": "crayon",
+        "phonetic": "/ˈkreɪən/",
+        "partOfSpeech": "n.",
+        "collocation": "color crayon; red crayon; draw with crayon"
+      },
+      {
+        "word": "crocodile",
+        "phonetic": "/ˈkrɒkədaɪl/",
+        "partOfSpeech": "n.",
+        "collocation": "big crocodile; toy crocodile; crocodile in the lake"
+      },
+      {
+        "word": "cross",
+        "phonetic": "/krɒs/",
+        "partOfSpeech": "n. + v.",
+        "collocation": "cross the road; red cross; cross a line"
+      },
+      {
+        "word": "cupboard",
+        "phonetic": "/ˈkʌbəd/",
+        "partOfSpeech": "n.",
+        "collocation": "wooden cupboard; kitchen cupboard; cupboard with plates"
+      },
+      {
+        "word": "dad",
+        "phonetic": "/dæd/",
+        "partOfSpeech": "n.",
+        "collocation": "my dad; love dad; dad's car"
+      },
+      {
+        "word": "Dan",
+        "phonetic": "/dæn/",
+        "partOfSpeech": "n.",
+        "collocation": "Dan's book; play with Dan; Dan's family"
+      },
+      {
+        "word": "day",
+        "phonetic": "/deɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "good day; sunny day; school day"
+      },
+      {
+        "word": "desk",
+        "phonetic": "/desk/",
+        "partOfSpeech": "n.",
+        "collocation": "school desk; big desk; desk with books"
+      },
+      {
+        "word": "dining room",
+        "phonetic": "/ˈdaɪnɪŋ ruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "in the dining room; big dining room; dining room table"
+      },
+      {
+        "word": "dinner",
+        "phonetic": "/ˈdɪnə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "eat dinner; dinner time; family dinner"
+      },
+      {
+        "word": "dirty",
+        "phonetic": "/ˈdɜːti/",
+        "partOfSpeech": "adj.",
+        "collocation": "dirty hands; dirty clothes; dirty floor"
+      },
+      {
+        "word": "do",
+        "phonetic": "/duː; də/",
+        "partOfSpeech": "v.",
+        "collocation": "do homework; do sports; do a puzzle"
+      },
+      {
+        "word": "dog",
+        "phonetic": "/dɒɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "cute dog; black dog; play with dog"
+      },
+      {
+        "word": "doll",
+        "phonetic": "/dɒl/",
+        "partOfSpeech": "n.",
+        "collocation": "girl's doll; beautiful doll; play with doll"
+      },
+      {
+        "word": "donkey",
+        "phonetic": "/ˈdɒŋki/",
+        "partOfSpeech": "n.",
+        "collocation": "small donkey; farm donkey; toy donkey"
+      },
+      {
+        "word": "don’t worry",
+        "phonetic": "/dəʊnt ˈwʌri/",
+        "partOfSpeech": "excl.",
+        "collocation": "don't worry about it; don't worry, I'm here; don't worry, it's okay"
+      },
+      {
+        "word": "door",
+        "phonetic": "/dɔː(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "open the door; close the door; wooden door"
+      },
+      {
+        "word": "double",
+        "phonetic": "/ˈdʌbl/",
+        "partOfSpeech": "adj.",
+        "collocation": "double numbers; double size; double trouble"
+      },
+      {
+        "word": "draw",
+        "phonetic": "/drɔː/",
+        "partOfSpeech": "v.",
+        "collocation": "draw a picture; draw a cat; draw with crayon"
+      },
+      {
+        "word": "drawing",
+        "phonetic": "/ˈdrɔːɪŋ/",
+        "partOfSpeech": "n.",
+        "collocation": "beautiful drawing; my drawing; drawing class"
+      },
+      {
+        "word": "dress",
+        "phonetic": "/dres/",
+        "partOfSpeech": "n.",
+        "collocation": "girl's dress; beautiful dress; red dress"
+      },
+      {
+        "word": "drink",
+        "phonetic": "/drɪŋk/",
+        "partOfSpeech": "n. + v.",
+        "collocation": "drink water; drink juice; cold drink"
+      },
+      {
+        "word": "drive",
+        "phonetic": "/draɪv/",
+        "partOfSpeech": "v.",
+        "collocation": "drive a car; drive home; drive slowly"
+      },
+      {
+        "word": "duck",
+        "phonetic": "/dʌk/",
+        "partOfSpeech": "n.",
+        "collocation": "small duck; yellow duck; duck in the pond"
+      },
+      {
+        "word": "ear",
+        "phonetic": "/ɪə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "big ear; listen with ear; hurt an ear"
+      },
+      {
+        "word": "eat",
+        "phonetic": "/iːt/",
+        "partOfSpeech": "v.",
+        "collocation": "eat food; eat dinner; eat fruit"
+      },
+      {
+        "word": "egg",
+        "phonetic": "/eɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "eat an egg; boiled egg; egg and bread"
+      },
+      {
+        "word": "elephant",
+        "phonetic": "/ˈelɪfənt/",
+        "partOfSpeech": "n.",
+        "collocation": "big elephant; grey elephant; zoo elephant"
+      },
+      {
+        "word": "end",
+        "phonetic": "/end/",
+        "partOfSpeech": "n.",
+        "collocation": "end of the day; end of the book; at the end"
+      },
+      {
+        "word": "enjoy",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "partOfSpeech": "v.",
+        "collocation": "enjoy the game; enjoy food; enjoy reading"
+      },
+      {
+        "word": "English",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "partOfSpeech": "adj. + n.",
+        "collocation": "English class; English book; speak English"
+      },
+      {
+        "word": "eraser (UK rubber)",
+        "phonetic": "/ɪˈreɪzə(r)/ /ˈrʌbə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "use an eraser; small eraser; pencil eraser"
+      },
+      {
+        "word": "evening",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "partOfSpeech": "n.",
+        "collocation": "good evening; in the evening; evening walk"
+      },
+      {
+        "word": "example",
+        "phonetic": "/ɪɡˈzɑːmpl/",
+        "partOfSpeech": "n.",
+        "collocation": "good example; follow an example; set an example"
+      },
+      {
+        "word": "eye",
+        "phonetic": "/aɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "big eye; blue eyes; look with eyes"
+      },
+      {
+        "word": "face",
+        "phonetic": "/feɪs/",
+        "partOfSpeech": "n.",
+        "collocation": "happy face; wash face; round face"
+      },
+      {
+        "word": "family",
+        "phonetic": "/ˈfæməli/",
+        "partOfSpeech": "n.",
+        "collocation": "big family; happy family; family dinner"
+      },
+      {
+        "word": "fantastic",
+        "phonetic": "/fænˈtæstɪk/",
+        "partOfSpeech": "adj. + excl.",
+        "collocation": "fantastic game; fantastic idea; fantastic!"
+      },
+      {
+        "word": "father",
+        "phonetic": "/ˈfɑːðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my father; love father; father's car"
+      },
+      {
+        "word": "favourite (US favorite)",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "partOfSpeech": "adj.",
+        "collocation": "favourite food; favourite color; favourite toy"
+      },
+      {
+        "word": "find",
+        "phonetic": "/faɪnd/",
+        "partOfSpeech": "v.",
+        "collocation": "find a book; find a toy; find a friend"
+      },
+      {
+        "word": "fish (s + pl)",
+        "phonetic": "/fɪʃ/",
+        "partOfSpeech": "n.",
+        "collocation": "eat fish; small fish; fish in the lake"
+      },
+      {
+        "word": "fishing",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "partOfSpeech": "n.",
+        "collocation": "go fishing; fishing trip; fishing rod"
+      },
+      {
+        "word": "floor",
+        "phonetic": "/flɔː(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "clean floor; wooden floor; stand on the floor"
+      },
+      {
+        "word": "flower",
+        "phonetic": "/ˈflaʊə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "beautiful flower; red flower; flower garden"
+      },
+      {
+        "word": "fly",
+        "phonetic": "/flaɪ/",
+        "partOfSpeech": "v.",
+        "collocation": "fly a kite; birds fly; fly high"
+      },
+      {
+        "word": "food",
+        "phonetic": "/fuːd/",
+        "partOfSpeech": "n.",
+        "collocation": "eat food; delicious food; healthy food"
+      },
+      {
+        "word": "foot/feet",
+        "phonetic": "/fʊt/ /fiːt/",
+        "partOfSpeech": "n.",
+        "collocation": "walk on foot; small feet; wash feet"
+      },
+      {
+        "word": "for",
+        "phonetic": "/fɔː(r); fə(r)/",
+        "partOfSpeech": "prep.",
+        "collocation": "for you; for school; for dinner"
+      },
+      {
+        "word": "frog",
+        "phonetic": "/frɒɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "small frog; green frog; frog in the pond"
+      },
+      {
+        "word": "from",
+        "phonetic": "/frəm; frɒm/",
+        "partOfSpeech": "prep.",
+        "collocation": "from school; from home; from China"
+      },
+      {
+        "word": "fruit",
+        "phonetic": "/fruːt/",
+        "partOfSpeech": "n.",
+        "collocation": "eat fruit; fresh fruit; fruit salad"
+      },
+      {
+        "word": "fun",
+        "phonetic": "/fʌn/",
+        "partOfSpeech": "adj. + n.",
+        "collocation": "fun game; have fun; fun day"
+      },
+      {
+        "word": "funny",
+        "phonetic": "/ˈfʌni/",
+        "partOfSpeech": "adj.",
+        "collocation": "funny cat; funny story; funny face"
+      },
+      {
+        "word": "game",
+        "phonetic": "/ɡeɪm/",
+        "partOfSpeech": "n.",
+        "collocation": "play a game; fun game; board game"
+      },
+      {
+        "word": "garden",
+        "phonetic": "/ˈɡɑːdn/",
+        "partOfSpeech": "n.",
+        "collocation": "flower garden; big garden; play in the garden"
+      },
+      {
+        "word": "get",
+        "phonetic": "/ɡet/",
+        "partOfSpeech": "v.",
+        "collocation": "get up; get a book; get home"
+      },
+      {
+        "word": "giraffe",
+        "phonetic": "/dʒəˈrɑːf/",
+        "partOfSpeech": "n.",
+        "collocation": "tall giraffe; zoo giraffe; toy giraffe"
+      },
+      {
+        "word": "girl",
+        "phonetic": "/ɡɜːl/",
+        "partOfSpeech": "n.",
+        "collocation": "small girl; happy girl; school girl"
+      },
+      {
+        "word": "give",
+        "phonetic": "/ɡɪv/",
+        "partOfSpeech": "v.",
+        "collocation": "give a book; give a gift; give to friend"
+      },
+      {
+        "word": "glasses",
+        "phonetic": "/ˈɡlɑːsɪz/",
+        "partOfSpeech": "n.",
+        "collocation": "wear glasses; sun glasses; reading glasses"
+      },
+      {
+        "word": "go",
+        "phonetic": "/ɡəʊ/",
+        "partOfSpeech": "v.",
+        "collocation": "go to school; go home; go to park"
+      },
+      {
+        "word": "go to bed",
+        "phonetic": "/ɡəʊ tu bed/",
+        "partOfSpeech": "v.",
+        "collocation": "go to bed early; go to bed late; time to go to bed"
+      },
+      {
+        "word": "go to sleep",
+        "phonetic": "/ɡəʊ tu sliːp/",
+        "partOfSpeech": "v.",
+        "collocation": "go to sleep quickly; go to sleep late; try to go to sleep"
+      },
+      {
+        "word": "goat",
+        "phonetic": "/ɡəʊt/",
+        "partOfSpeech": "n.",
+        "collocation": "small goat; farm goat; white goat"
+      },
+      {
+        "word": "good",
+        "phonetic": "/ɡʊd/",
+        "partOfSpeech": "adj.",
+        "collocation": "good boy; good day; good friend"
+      },
+      {
+        "word": "goodbye",
+        "phonetic": "/ˌɡʊdˈbaɪ/",
+        "partOfSpeech": "excl.",
+        "collocation": "say goodbye; goodbye teacher; goodbye friend"
+      },
+      {
+        "word": "grape",
+        "phonetic": "/ɡreɪp/",
+        "partOfSpeech": "n.",
+        "collocation": "eat grapes; red grapes; bunch of grapes"
+      },
+      {
+        "word": "Grace",
+        "phonetic": "/ɡreɪs/",
+        "partOfSpeech": "n.",
+        "collocation": "Grace's book; play with Grace; Grace's family"
+      },
+      {
+        "word": "gray (UK grey)",
+        "phonetic": "/ɡreɪ/ /ɡreɪ/",
+        "partOfSpeech": "adj.",
+        "collocation": "gray sky; gray hair; gray cat"
+      },
+      {
+        "word": "great",
+        "phonetic": "/ɡreɪt/",
+        "partOfSpeech": "adj. + excl.",
+        "collocation": "great idea; great game; great!"
+      },
+      {
+        "word": "green",
+        "phonetic": "/ɡriːn/",
+        "partOfSpeech": "adj.",
+        "collocation": "green grass; green tree; green apple"
+      },
+      {
+        "word": "grey (US gray)",
+        "phonetic": "/ɡreɪ/ /ɡreɪ/",
+        "partOfSpeech": "adj.",
+        "collocation": "grey cloud; grey coat; grey dog"
+      },
+      {
+        "word": "guitar",
+        "phonetic": "/ɡɪˈtɑː(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "play the guitar; small guitar; music guitar"
+      },
+      {
+        "word": "hair",
+        "phonetic": "/heə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "long hair; short hair; black hair"
+      },
+      {
+        "word": "hall",
+        "phonetic": "/hɔːl/",
+        "partOfSpeech": "n.",
+        "collocation": "school hall; big hall; in the hall"
+      },
+      {
+        "word": "hand",
+        "phonetic": "/hænd/",
+        "partOfSpeech": "n.",
+        "collocation": "small hand; wash hands; hold a hand"
+      },
+      {
+        "word": "handbag",
+        "phonetic": "/ˈhændbæɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "woman's handbag; small handbag; new handbag"
+      },
+      {
+        "word": "happy",
+        "phonetic": "/ˈhæpi/",
+        "partOfSpeech": "adj.",
+        "collocation": "happy boy; happy day; feel happy"
+      },
+      {
+        "word": "hat",
+        "phonetic": "/hæt/",
+        "partOfSpeech": "n.",
+        "collocation": "red hat; wear a hat; sun hat"
+      },
+      {
+        "word": "have",
+        "phonetic": "/hæv; həv/",
+        "partOfSpeech": "v.",
+        "collocation": "have a book; have a cat; have lunch"
+      },
+      {
+        "word": "have got",
+        "phonetic": "/hæv ɡɒt; həv ɡɒt/",
+        "partOfSpeech": "v.",
+        "collocation": "have got a dog; have got a book; have got a pen"
+      },
+      {
+        "word": "head",
+        "phonetic": "/hed/",
+        "partOfSpeech": "n.",
+        "collocation": "big head; wash head; hurt head"
+      },
+      {
+        "word": "helicopter",
+        "phonetic": "/ˈhelɪkɒptə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "toy helicopter; big helicopter; fly a helicopter"
+      },
+      {
+        "word": "hello",
+        "phonetic": "/həˈləʊ/",
+        "partOfSpeech": "excl.",
+        "collocation": "say hello; hello teacher; hello friend"
+      },
+      {
+        "word": "her",
+        "phonetic": "/hɜː(r); hə(r)/",
+        "partOfSpeech": "poss adj + pron",
+        "collocation": "her book; her cat; give to her"
+      },
+      {
+        "word": "here",
+        "phonetic": "/hɪə(r)/",
+        "partOfSpeech": "adv.",
+        "collocation": "come here; stay here; here you are"
+      },
+      {
+        "word": "hers",
+        "phonetic": "/hɜːz/",
+        "partOfSpeech": "pron.",
+        "collocation": "this book is hers; the bag is hers; hers is red"
+      },
+      {
+        "word": "hi",
+        "phonetic": "/haɪ/",
+        "partOfSpeech": "excl.",
+        "collocation": "say hi; hi there; hi friend"
+      },
+      {
+        "word": "he",
+        "phonetic": "/hiː; hi/",
+        "partOfSpeech": "pron.",
+        "collocation": "he is happy; he plays football; he has a dog"
+      },
+      {
+        "word": "him",
+        "phonetic": "/hɪm/",
+        "partOfSpeech": "pron.",
+        "collocation": "help him; give to him; play with him"
+      },
+      {
+        "word": "hippo",
+        "phonetic": "/ˈhɪpəʊ/",
+        "partOfSpeech": "n.",
+        "collocation": "big hippo; zoo hippo; toy hippo"
+      },
+      {
+        "word": "his",
+        "phonetic": "/hɪz/",
+        "partOfSpeech": "poss adj + pron",
+        "collocation": "his book; his car; this is his"
+      },
+      {
+        "word": "hit",
+        "phonetic": "/hɪt/",
+        "partOfSpeech": "v.",
+        "collocation": "hit a ball; hit the wall; hit softly"
+      },
+      {
+        "word": "hobby",
+        "phonetic": "/ˈhɒbi/",
+        "partOfSpeech": "n.",
+        "collocation": "my hobby; hobby is reading; fun hobby"
+      },
+      {
+        "word": "hockey",
+        "phonetic": "/ˈhɒki/",
+        "partOfSpeech": "n.",
+        "collocation": "play hockey; hockey game; hockey stick"
+      },
+      {
+        "word": "hold",
+        "phonetic": "/həʊld/",
+        "partOfSpeech": "v.",
+        "collocation": "hold a book; hold a hand; hold a toy"
+      },
+      {
+        "word": "home",
+        "phonetic": "/həʊm/",
+        "partOfSpeech": "n. + adv.",
+        "collocation": "go home; at home; home sweet home"
+      },
+      {
+        "word": "horse",
+        "phonetic": "/hɔːs/",
+        "partOfSpeech": "n.",
+        "collocation": "big horse; ride a horse; toy horse"
+      },
+      {
+        "word": "house",
+        "phonetic": "/haʊs/",
+        "partOfSpeech": "n.",
+        "collocation": "big house; small house; my house"
+      },
+      {
+        "word": "hooray",
+        "phonetic": "/hʊˈreɪ/",
+        "partOfSpeech": "excl.",
+        "collocation": "hooray! We win; hooray for you; hooray party"
+      },
+      {
+        "word": "how",
+        "phonetic": "/haʊ/",
+        "partOfSpeech": "int.",
+        "collocation": "how are you; how old; how many"
+      },
+      {
+        "word": "how many",
+        "phonetic": "/haʊ ˈmeni/",
+        "partOfSpeech": "int.",
+        "collocation": "how many books; how many cats; how many friends"
+      },
+      {
+        "word": "how old",
+        "phonetic": "/haʊ əʊld/",
+        "partOfSpeech": "int.",
+        "collocation": "how old are you; how old is he; how old is the dog"
+      },
+      {
+        "word": "Hugo",
+        "phonetic": "/ˈhjuːɡəʊ/",
+        "partOfSpeech": "n.",
+        "collocation": "Hugo's book; play with Hugo; Hugo's family"
+      },
+      {
+        "word": "I",
+        "phonetic": "/aɪ/",
+        "partOfSpeech": "pron.",
+        "collocation": "I am happy; I like cats; I go to school"
+      },
+      {
+        "word": "ice cream",
+        "phonetic": "/aɪs kriːm/",
+        "partOfSpeech": "n.",
+        "collocation": "eat ice cream; chocolate ice cream; cold ice cream"
+      },
+      {
+        "word": "in",
+        "phonetic": "/ɪn/",
+        "partOfSpeech": "prep. (place + time)",
+        "collocation": "in the room; in the morning; in school"
+      },
+      {
+        "word": "in front of",
+        "phonetic": "/ɪn frʌnt ɒv/",
+        "partOfSpeech": "prep.",
+        "collocation": "in front of the door; in front of the tree; stand in front of"
+      },
+      {
+        "word": "it",
+        "phonetic": "/ɪt/",
+        "partOfSpeech": "pron.",
+        "collocation": "it is a cat; it is big; it is mine"
+      },
+      {
+        "word": "its",
+        "phonetic": "/ɪts/",
+        "partOfSpeech": "poss adj + pron",
+        "collocation": "its tail; its color; this is its"
+      },
+      {
+        "word": "jacket",
+        "phonetic": "/ˈdʒækɪt/",
+        "partOfSpeech": "n.",
+        "collocation": "blue jacket; wear a jacket; winter jacket"
+      },
+      {
+        "word": "jeans",
+        "phonetic": "/dʒiːnz/",
+        "partOfSpeech": "n.",
+        "collocation": "blue jeans; wear jeans; new jeans"
+      },
+      {
+        "word": "Jill",
+        "phonetic": "/dʒɪl/",
+        "partOfSpeech": "n.",
+        "collocation": "Jill's book; play with Jill; Jill's doll"
+      },
+      {
+        "word": "jellyfish",
+        "phonetic": "/ˈdʒelɪfɪʃ/",
+        "partOfSpeech": "n.",
+        "collocation": "small jellyfish; sea jellyfish; toy jellyfish"
+      },
+      {
+        "word": "jump",
+        "phonetic": "/dʒʌmp/",
+        "partOfSpeech": "v.",
+        "collocation": "jump high; jump far; jump up and down"
+      },
+      {
+        "word": "juice",
+        "phonetic": "/dʒuːs/",
+        "partOfSpeech": "n.",
+        "collocation": "drink juice; apple juice; orange juice"
+      },
+      {
+        "word": "keyboard (computer)",
+        "phonetic": "/ˈkiːbɔːd/",
+        "partOfSpeech": "n.",
+        "collocation": "computer keyboard; type on keyboard; black keyboard"
+      },
+      {
+        "word": "kick",
+        "phonetic": "/kɪk/",
+        "partOfSpeech": "v.",
+        "collocation": "kick a ball; kick softly; kick the ball far"
+      },
+      {
+        "word": "kid",
+        "phonetic": "/kɪd/",
+        "partOfSpeech": "n.",
+        "collocation": "small kid; happy kid; play with kids"
+      },
+      {
+        "word": "Kim",
+        "phonetic": "/kɪm/",
+        "partOfSpeech": "n.",
+        "collocation": "Kim's book; talk to Kim; Kim's cat"
+      },
+      {
+        "word": "kitchen",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "partOfSpeech": "n.",
+        "collocation": "in the kitchen; clean kitchen; kitchen table"
+      },
+      {
+        "word": "kite",
+        "phonetic": "/kaɪt/",
+        "partOfSpeech": "n.",
+        "collocation": "fly a kite; red kite; big kite"
+      },
+      {
+        "word": "kiwi",
+        "phonetic": "/ˈkiːwi/",
+        "partOfSpeech": "n.",
+        "collocation": "eat kiwi; green kiwi; fresh kiwi"
+      },
+      {
+        "word": "know",
+        "phonetic": "/nəʊ/",
+        "partOfSpeech": "v.",
+        "collocation": "know the answer; know his name; know how to read"
+      },
+      {
+        "word": "lamp",
+        "phonetic": "/læmp/",
+        "partOfSpeech": "n.",
+        "collocation": "table lamp; big lamp; turn on the lamp"
+      },
+      {
+        "word": "learn",
+        "phonetic": "/lɜːn/",
+        "partOfSpeech": "v.",
+        "collocation": "learn English; learn to read; learn a song"
+      },
+      {
+        "word": "leg",
+        "phonetic": "/leɡ/",
+        "partOfSpeech": "n.",
+        "collocation": "long leg; hurt a leg; walk with legs"
+      },
+      {
+        "word": "lemon",
+        "phonetic": "/ˈlemən/",
+        "partOfSpeech": "n.",
+        "collocation": "yellow lemon; eat a lemon; lemon juice"
+      },
+      {
+        "word": "lemonade",
+        "phonetic": "/ˌleməˈneɪd/",
+        "partOfSpeech": "n.",
+        "collocation": "drink lemonade; cold lemonade; make lemonade"
+      },
+      {
+        "word": "lesson",
+        "phonetic": "/ˈlesn/",
+        "partOfSpeech": "n.",
+        "collocation": "English lesson; math lesson; have a lesson"
+      },
+      {
+        "word": "let’s",
+        "phonetic": "/lets/",
+        "partOfSpeech": "v.",
+        "collocation": "let's play; let's read; let's go"
+      },
+      {
+        "word": "letter (as in alphabet)",
+        "phonetic": "/ˈletə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "English letter; letter A; write a letter"
+      },
+      {
+        "word": "listen",
+        "phonetic": "/ˈlɪsn/",
+        "partOfSpeech": "v.",
+        "collocation": "listen to music; listen to teacher; listen carefully"
+      },
+      {
+        "word": "live",
+        "phonetic": "/lɪv; lɪv/",
+        "partOfSpeech": "v.",
+        "collocation": "live at home; live in China; live with family"
+      },
+      {
+        "word": "living room",
+        "phonetic": "/ˈlɪvɪŋ ruːm/",
+        "partOfSpeech": "n.",
+        "collocation": "in the living room; big living room; living room sofa"
+      },
+      {
+        "word": "lizard",
+        "phonetic": "/ˈlɪzəd/",
+        "partOfSpeech": "n.",
+        "collocation": "small lizard; green lizard; toy lizard"
+      },
+      {
+        "word": "long",
+        "phonetic": "/lɒŋ/",
+        "partOfSpeech": "adj.",
+        "collocation": "long hair; long rope; long road"
+      },
+      {
+        "word": "look",
+        "phonetic": "/lʊk/",
+        "partOfSpeech": "v.",
+        "collocation": "look at me; look at the book; look carefully"
+      },
+      {
+        "word": "look at",
+        "phonetic": "/lʊk æt/",
+        "partOfSpeech": "v.",
+        "collocation": "look at the cat; look at the picture; look at the teacher"
+      },
+      {
+        "word": "lorry (US truck)",
+        "phonetic": "/ˈlɒri/ /trʌk/",
+        "partOfSpeech": "n.",
+        "collocation": "big lorry; toy lorry; red lorry"
+      },
+      {
+        "word": "a lot",
+        "phonetic": "/ə lɒt/",
+        "partOfSpeech": "adv. + pron.",
+        "collocation": "a lot of books; a lot of fun; know a lot"
+      },
+      {
+        "word": "a lot of",
+        "phonetic": "/ə lɒt ɒv/",
+        "partOfSpeech": "det.",
+        "collocation": "a lot of cats; a lot of food; a lot of friends"
+      },
+      {
+        "word": "lots",
+        "phonetic": "/lɒts/",
+        "partOfSpeech": "adv. + pron.",
+        "collocation": "lots of books; lots of fun; lots to do"
+      },
+      {
+        "word": "lots of",
+        "phonetic": "/lɒts ɒv/",
+        "partOfSpeech": "det.",
+        "collocation": "lots of toys; lots of fruit; lots of games"
+      },
+      {
+        "word": "love",
+        "phonetic": "/lʌv/",
+        "partOfSpeech": "v.",
+        "collocation": "love my family; love cats; love reading"
+      },
+      {
+        "word": "Lucy",
+        "phonetic": "/ˈluːsi/",
+        "partOfSpeech": "n.",
+        "collocation": "Lucy's book; play with Lucy; Lucy's doll"
+      },
+      {
+        "word": "lunch",
+        "phonetic": "/lʌntʃ/",
+        "partOfSpeech": "n.",
+        "collocation": "eat lunch; have lunch; lunch time"
+      },
+      {
+        "word": "make",
+        "phonetic": "/meɪk/",
+        "partOfSpeech": "v.",
+        "collocation": "make a cake; make a picture; make a friend"
+      },
+      {
+        "word": "man/men",
+        "phonetic": "/mæn/ /men/",
+        "partOfSpeech": "n.",
+        "collocation": "tall man; two men; man's hat"
+      },
+      {
+        "word": "mango",
+        "phonetic": "/ˈmæŋɡəʊ/",
+        "partOfSpeech": "n.",
+        "collocation": "eat mango; sweet mango; yellow mango"
+      },
+      {
+        "word": "many",
+        "phonetic": "/ˈmeni/",
+        "partOfSpeech": "det.",
+        "collocation": "many books; many cats; many friends"
+      },
+      {
+        "word": "Mark",
+        "phonetic": "/mɑːk/",
+        "partOfSpeech": "n.",
+        "collocation": "Mark's book; play with Mark; Mark's bike"
+      },
+      {
+        "word": "mat",
+        "phonetic": "/mæt/",
+        "partOfSpeech": "n.",
+        "collocation": "floor mat; small mat; colorful mat"
+      },
+      {
+        "word": "Matt",
+        "phonetic": "/mæt/",
+        "partOfSpeech": "n.",
+        "collocation": "Matt's pen; talk to Matt; Matt's dog"
+      },
+      {
+        "word": "May (as in girl’s name)",
+        "phonetic": "/meɪ/",
+        "partOfSpeech": "n.",
+        "collocation": "May's book; play with May; May's birthday"
+      },
+      {
+        "word": "me",
+        "phonetic": "/miː; mi/",
+        "partOfSpeech": "pron.",
+        "collocation": "help me; give to me; play with me"
+      },
+      {
+        "word": "me too",
+        "phonetic": "/miː tuː/",
+        "partOfSpeech": "dis.",
+        "collocation": "me too! I like it; me too! Let's go; me too! I'm happy"
+      },
+      {
+        "word": "meat",
+        "phonetic": "/miːt/",
+        "partOfSpeech": "n.",
+        "collocation": "eat meat; beef meat; fresh meat"
+      },
+      {
+        "word": "meatballs",
+        "phonetic": "/ˈmiːtbɔːlz/",
+        "partOfSpeech": "n.",
+        "collocation": "eat meatballs; meatballs soup; tomato meatballs"
+      },
+      {
+        "word": "milk",
+        "phonetic": "/mɪlk/",
+        "partOfSpeech": "n.",
+        "collocation": "drink milk; cold milk; milk and bread"
+      },
+      {
+        "word": "mine",
+        "phonetic": "/maɪn/",
+        "partOfSpeech": "pron.",
+        "collocation": "this book is mine; the toy is mine; mine is blue"
+      },
+      {
+        "word": "mirror",
+        "phonetic": "/ˈmɪrə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "look in the mirror; bathroom mirror; big mirror"
+      },
+      {
+        "word": "Miss",
+        "phonetic": "/mɪs/",
+        "partOfSpeech": "title",
+        "collocation": "Miss Li; Miss Wang; Miss Brown"
+      },
+      {
+        "word": "monkey",
+        "phonetic": "/ˈmʌŋki/",
+        "partOfSpeech": "n.",
+        "collocation": "cute monkey; zoo monkey; toy monkey"
+      },
+      {
+        "word": "monster",
+        "phonetic": "/ˈmɒnstə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "scary monster; toy monster; big monster"
+      },
+      {
+        "word": "morning",
+        "phonetic": "/ˈmɔːnɪŋ/",
+        "partOfSpeech": "n.",
+        "collocation": "good morning; in the morning; morning tea"
+      },
+      {
+        "word": "mother",
+        "phonetic": "/ˈmʌðə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "my mother; love mother; mother's day"
+      },
+      {
+        "word": "motorbike",
+        "phonetic": "/ˈməʊtəbaɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "ride a motorbike; toy motorbike; red motorbike"
+      },
+      {
+        "word": "mouse/mice",
+        "phonetic": "/maʊs/ /maɪs/",
+        "partOfSpeech": "n.",
+        "collocation": "small mouse; two mice; toy mouse"
+      },
+      {
+        "word": "mouse (computer)",
+        "phonetic": "/maʊs/",
+        "partOfSpeech": "n.",
+        "collocation": "computer mouse; use a mouse; black mouse"
+      },
+      {
+        "word": "mouth",
+        "phonetic": "/maʊθ/",
+        "partOfSpeech": "n.",
+        "collocation": "open mouth; close mouth; wash mouth"
+      },
+      {
+        "word": "Mr",
+        "phonetic": "/ˈmɪstə(r)/",
+        "partOfSpeech": "title",
+        "collocation": "Mr Li; Mr Wang; Mr Brown"
+      },
+      {
+        "word": "Mrs",
+        "phonetic": "/ˈmɪsɪz/",
+        "partOfSpeech": "title",
+        "collocation": "Mrs Li; Mrs Wang; Mrs Brown"
+      },
+      {
+        "word": "mum",
+        "phonetic": "/mʌm/",
+        "partOfSpeech": "n.",
+        "collocation": "my mum; love mum; mum's cooking"
+      },
+      {
+        "word": "music",
+        "phonetic": "/ˈmjuːzɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "listen to music; pop music; music class"
+      },
+      {
+        "word": "my",
+        "phonetic": "/maɪ/",
+        "partOfSpeech": "poss adj.",
+        "collocation": "my book; my cat; my friend"
+      },
+      {
+        "word": "name",
+        "phonetic": "/neɪm/",
+        "partOfSpeech": "n.",
+        "collocation": "my name; your name; what's your name"
+      },
+      {
+        "word": "new",
+        "phonetic": "/njuː/",
+        "partOfSpeech": "adj.",
+        "collocation": "new book; new car; new friend"
+      },
+      {
+        "word": "next to",
+        "phonetic": "/nekst tuː/",
+        "partOfSpeech": "prep.",
+        "collocation": "next to the door; next to the tree; sit next to"
+      },
+      {
+        "word": "nice",
+        "phonetic": "/naɪs/",
+        "partOfSpeech": "adj.",
+        "collocation": "nice girl; nice day; nice book"
+      },
+      {
+        "word": "Nick",
+        "phonetic": "/nɪk/",
+        "partOfSpeech": "n.",
+        "collocation": "Nick's book; play with Nick; Nick's dog"
+      },
+      {
+        "word": "night",
+        "phonetic": "/naɪt/",
+        "partOfSpeech": "n.",
+        "collocation": "good night; at night; night time"
+      },
+      {
+        "word": "no",
+        "phonetic": "/nəʊ/",
+        "partOfSpeech": "adv. + det.",
+        "collocation": "no problem; no book; no cat"
+      },
+      {
+        "word": "nose",
+        "phonetic": "/nəʊz/",
+        "partOfSpeech": "n.",
+        "collocation": "big nose; small nose; wash nose"
+      },
+      {
+        "word": "not",
+        "phonetic": "/nɒt/",
+        "partOfSpeech": "adv.",
+        "collocation": "not happy; not big; not mine"
+      },
+      {
+        "word": "number",
+        "phonetic": "/ˈnʌmbə(r)/",
+        "partOfSpeech": "n.",
+        "collocation": "number one; phone number; count numbers"
+      },
+      {
+        "word": "now",
+        "phonetic": "/naʊ/",
+        "partOfSpeech": "adv.",
+        "collocation": "now is time; do it now; come now"
+      },
+      {
+        "word": "of",
+        "phonetic": "/ɒv; əv/",
+        "partOfSpeech": "prep.",
+        "collocation": "cup of water; piece of cake; friend of mine"
+      },
+      {
+        "word": "oh",
+        "phonetic": "/əʊ/",
+        "partOfSpeech": "dis.",
+        "collocation": "oh! Really; oh! Wow; oh! No"
+      }
+    ]
+  }
+  
+  
+}
